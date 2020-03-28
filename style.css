@@ -1,0 +1,9 @@
+body, h1{
+    background-color: gray;
+    color:white
+}
+div {
+    background-color:orange;
+    width: 100px;
+    height :100px;
+}
